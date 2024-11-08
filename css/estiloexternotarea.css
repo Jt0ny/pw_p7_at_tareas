@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+h2{
+    color: burlywood;
+    background-color: beige;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: red;
+    background-color: aqua;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Times, serif;
+}
+button{
+    color: aqua;
+    background-color:black;
+    border-radius: 10px;
+}
+footer{
+    font-family: fantasy;
+}
